@@ -1,0 +1,16 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+checkpoints/
+
+# Node
+node_modules/
+.next/
+dist/
+
+# Mac
+.DS_Store
+
+# Logs
+npm-debug.log*
